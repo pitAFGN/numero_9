@@ -9,7 +9,9 @@
       "capacidadMaxima": 50,
       "entradasVendidas": 0,
       "estado": "programado",
-      "artistasVinculados": []
+      "artistasVinculados": [
+        "ART-TEST"
+      ]
     }
   ],
   "artistas": [
