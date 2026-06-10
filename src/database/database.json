@@ -1,0 +1,33 @@
+{
+  "eventos": [
+    {
+      "codigo": "EV-1",
+      "nombre": "Exposición Acuarelas de la Revolución",
+      "tipo": "exposicion",
+      "fecha": "2026-09-18T10:00:00Z",
+      "ubicacion": "Museo de Arte Moderno de Medellín (MAMM)",
+      "capacidadMaxima": 50,
+      "entradasVendidas": 0,
+      "estado": "programado",
+      "artistasVinculados": []
+    }
+  ],
+  "artistas": [
+    {
+      "identificacion": "ART-TEST",
+      "nombre": "Débora Arango",
+      "disciplina": "Pintura",
+      "biografia": "Sin biografía :0",
+      "contacto": "Sin datos :("
+    },
+    {
+      "identificacion": "ART-55",
+      "nombre": "Débora Arango",
+      "disciplina": "Pintura Expresionista",
+      "biografia": "Sin biografía :0",
+      "contacto": "Sin datos :("
+    }
+  ],
+  "asistentes": [],
+  "patrocinadores": []
+}
