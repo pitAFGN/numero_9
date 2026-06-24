@@ -1,4 +1,4 @@
-### me falta un test y la documentacion
+### Todo listo
 
 Padre nuestro, que estás en el cielo,santificado sea tu Nombre;
 venga a nosotros tu reino;

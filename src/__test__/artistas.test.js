@@ -33,7 +33,7 @@ describe('Pruebas de Artistas', () => {
             });
         
         expect(res.statusCode).toBe(201);
-        expect(res.body).toHaveProperty('mensaje', 'Artista registrado con éxito');
+        expect(res.body).toHaveProperty('mensaje', 'Artista guardadito');
     });
 
     it('Debería rechazar el registro si el artista ya existe (POST /artistas - Duplicado)', async () => {

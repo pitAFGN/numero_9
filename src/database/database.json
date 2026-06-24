@@ -2,26 +2,25 @@
   "eventos": [
     {
       "codigo": "EV-1",
+      "nombre": "Cine al Parque",
+      "tipo": "tertulias",
+      "estado": "cancelado"
+    },
+    {
+      "codigo": "EV-2",
       "nombre": "Exposición Acuarelas de la Revolución",
       "tipo": "exposicion",
       "fecha": "2026-09-18T10:00:00Z",
       "ubicacion": "Museo de Arte Moderno de Medellín (MAMM)",
       "capacidadMaxima": 50,
-      "entradasVendidas": 0,
+      "entradasVendidas": 1,
       "estado": "programado",
       "artistasVinculados": [
-        "ART-TEST"
+        "ART-55"
       ]
     }
   ],
   "artistas": [
-    {
-      "identificacion": "ART-TEST",
-      "nombre": "Débora Arango",
-      "disciplina": "Pintura",
-      "biografia": "Sin biografía :0",
-      "contacto": "Sin datos :("
-    },
     {
       "identificacion": "ART-55",
       "nombre": "Débora Arango",
@@ -30,6 +29,11 @@
       "contacto": "Sin datos :("
     }
   ],
-  "asistentes": [],
+  "asistentes": [
+    {
+      "nombre": "Carlos Restrepo",
+      "codigoEvento": "EV-2"
+    }
+  ],
   "patrocinadores": []
 }
